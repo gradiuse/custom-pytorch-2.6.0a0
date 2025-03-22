@@ -49,15 +49,13 @@ The prebuilt `.whl` file is available under the **Releases** section.
 
 ---
 
-## 🔖 Build Notes
-
-This version was built from source using the official PyTorch repository with minor adjustments for TorchExtensions and Anaconda compatibility.
-
-Feel free to fork and rebuild as needed.
-
 ## 🛠️ Maintenance Notice
 
 This project was built as a one-time custom build for personal use.  
 The author has less than 2 months of experience with coding and does **not plan to actively maintain or update** this repository.
 
 Feel free to fork, customize, or rebuild it for your own purposes.
+
+---
+
+Thank you for visiting! 🚀
